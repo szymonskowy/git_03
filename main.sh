@@ -1,5 +1,6 @@
 #Program wyswietlajacy tekst w konsoli
-echo "hello world"
+echo "hello " $USER
+ls -lah ~ > lista_plikow.txt
 
 
 
